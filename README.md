@@ -78,7 +78,4 @@ This mini project demonstrates how simple ML methods can assist in **predicting 
 It highlights the potential for:
 - Data-driven early diagnosis  
 - Improved decision-making for clinicians  
-- Foundational insights for future research in health informatics  
-
-
-### 📁 Repository Structure
+- Foundational insights for future research in health informatics
